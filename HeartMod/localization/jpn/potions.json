@@ -1,0 +1,8 @@
+{
+  "HEARTMOD-GROWTH_POTION.title": "成長ポーション",
+  "HEARTMOD-GROWTH_POTION.description": "この戦闘中、最大HPを[blue]15[/blue]得る。",
+  "HEARTMOD-OVERCLOCK_SOLUTION.title": "過駆動溶液",
+  "HEARTMOD-OVERCLOCK_SOLUTION.description": "ターンを終了し、[gold]追加ターン[/gold]を得る。",
+  "HEARTMOD-TOUGHNESS_POTION.title": "強靭ポーション",
+  "HEARTMOD-TOUGHNESS_POTION.description": "このターン、失うHPを最大[blue]9[/blue]にする。"
+}

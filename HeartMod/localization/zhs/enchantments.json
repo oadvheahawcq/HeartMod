@@ -1,0 +1,6 @@
+{
+  "HEARTMOD-REFORGE_ENCHANTMENT.description": "承载此融合的牌视为攻击牌。打出时依次结算下列全部效果，并把它们继续融合给一张手牌。",
+  "HEARTMOD-REFORGE_ENCHANTMENT.extraCardText": "{Effects}{Pass}",
+  "HEARTMOD-REFORGE_ENCHANTMENT.segPass": "打出时将全部效果融合给一张手牌。",
+  "HEARTMOD-REFORGE_ENCHANTMENT.title": "重铸融合"
+}

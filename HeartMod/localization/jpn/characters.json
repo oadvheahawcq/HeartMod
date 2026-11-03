@@ -1,0 +1,18 @@
+{
+  "HEARTMOD-HEART_MOD.title": "心臓",
+  "HEARTMOD-HEART_MOD.titleObject": "心臓",
+  "HEARTMOD-HEART_MOD.description": "千年前のスパイアの主であり、自らのものすべてを取り戻すと誓った存在。\n戦闘では呪いの力を操る。",
+  "HEARTMOD-HEART_MOD.possessiveAdjective": "その",
+  "HEARTMOD-HEART_MOD.pronounPossessive": "その",
+  "HEARTMOD-HEART_MOD.pronounSubject": "それ",
+  "HEARTMOD-HEART_MOD.pronounObject": "それ",
+  "HEARTMOD-HEART_MOD.goldMonologue": "[sine]富……実に心強い。[/sine]",
+  "HEARTMOD-HEART_MOD.eventDeathPrevention": "まだだ……私はまだ鼓動している。",
+  "HEARTMOD-HEART_MOD.aromaPrinciple": "[sine][gray]本物の戦いというものを見せてやろう。[/gray][/sine]",
+  "HEARTMOD-HEART_MOD.cardsModifierTitle": "心臓のカード",
+  "HEARTMOD-HEART_MOD.cardsModifierDescription": "心臓のカードが報酬とショップに出現するようになる。",
+  "HEARTMOD-HEART_MOD.banter.alive.endTurnPing": "続け。",
+  "HEARTMOD-HEART_MOD.banter.dead.endTurnPing": "……",
+  "HEARTMOD-HEART_MOD.archTImp.heart": "我が栄光を取り戻してみせる。",
+  "HEARTMOD-HEART_MOD.archTImp.0-1ancient": "私が勝利へと導いてやろう！"
+}

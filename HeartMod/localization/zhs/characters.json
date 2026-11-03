@@ -1,0 +1,28 @@
+﻿{
+  "HEARTMOD-HEART_MOD.title": "腐化之心",
+  "HEARTMOD-HEART_MOD.titleObject": "腐化之心",
+  "HEARTMOD-HEART_MOD.description": "千年前的尖塔主人，誓要夺回属于自己的一切。\n使用诅咒的力量进行战斗。",
+  "HEARTMOD-HEART_MOD.possessiveAdjective": "它的",
+  "HEARTMOD-HEART_MOD.pronounPossessive": "它的",
+  "HEARTMOD-HEART_MOD.pronounSubject": "它",
+  "HEARTMOD-HEART_MOD.pronounObject": "它",
+  "HEARTMOD-HEART_MOD.goldMonologue": "[sine]财富……令人安心。[/sine]",
+  "HEARTMOD-HEART_MOD.eventDeathPrevention": "还不能……停止跳动。",
+  "HEARTMOD-HEART_MOD.aromaPrinciple": "[sine][gray]该让你们看看什么是真正的战斗了。[/gray][/sine]",
+  "HEARTMOD-HEART_MOD.cardsModifierTitle": "腐化之心卡牌",
+  "HEARTMOD-HEART_MOD.cardsModifierDescription": "腐化之心的卡牌现在会出现在奖励和商店中。",
+  "HEARTMOD-HEART_MOD.banter.alive.endTurnPing": "继续。",
+  "HEARTMOD-HEART_MOD.banter.dead.endTurnPing": "……",
+  "HEARTMOD-HEART_MOD.archTImp.heart": "我会夺回属于我的荣耀。",
+  "HEARTMOD-HEART_MOD.archTImp.0-1ancient": "让我来带领你们获得胜利吧！",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-attack": "就凭你？那我拭目以待。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.archT.0-0-attack": "终有一日……我将再度归来……",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.archT.0-1-ancient": "1111",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-0r.char": "即使把自己变成这样也要爬塔吗？",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-0r.next": "再来千万次，结果也不会改变。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-1r.ancient": "你根本不懂如何使用这些东西。"
+
+}
+
+
+

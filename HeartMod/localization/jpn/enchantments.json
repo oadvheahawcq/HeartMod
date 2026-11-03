@@ -1,0 +1,6 @@
+{
+  "HEARTMOD-REFORGE_ENCHANTMENT.description": "この効果を持つカードはアタックとして扱われる。プレイ時、以下のすべての効果を順に解決し、それらを手札の別のカードに融合させる。",
+  "HEARTMOD-REFORGE_ENCHANTMENT.extraCardText": "{Effects}{Pass}",
+  "HEARTMOD-REFORGE_ENCHANTMENT.segPass": "プレイ時、すべての効果を手札のカード1枚に融合させる。",
+  "HEARTMOD-REFORGE_ENCHANTMENT.title": "再鍛"
+}

@@ -1,0 +1,34 @@
+{
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-attack": "I will reclaim what is mine.",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-0r.char": "I will reclaim what is mine.",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-0r.next": "Continue",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-1r.ancient": "You? I shall watch with amusement.",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-1r.next": "Respond",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-2r.char": "Witness my strongest strike!",
+
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-0r.ancient": "See that corpse in the corner? That was once you.",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-0r.next": "Respond",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-1r.char": "So what? I will return again.",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-1r.next": "Continue",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-2r.ancient": "A thousand times, and the result will not change.",
+
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-0r.ancient": "So persistent. Why bother?",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-0r.next": "Respond",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-1r.char": "Tyrant... die!",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-1r.next": "Continue",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-2r.ancient": "Ridiculous.",
+
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-0r.ancient": "Your current form... is so laughable...",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-0r.next": "Continue",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-1r.char": "It is merely starting over.",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-1r.next": "Continue",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-2r.ancient": "Then... go...",
+
+  "NEOW.talk.HEARTMOD-HEART_MOD.1-0r.ancient": "You... willingly... step into... the cycle...?",
+
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-0r.ancient": "All that has passed... you... have forgotten...",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-0r.next": "Respond",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-1r.char": "I will ascend the throne and do better.",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-1r.next": "Continue",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-2r.ancient": "At least... our goal... is the same..."
+}

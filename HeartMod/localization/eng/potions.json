@@ -1,0 +1,8 @@
+{
+  "HEARTMOD-GROWTH_POTION.title": "Growth Potion",
+  "HEARTMOD-GROWTH_POTION.description": "Gain [blue]15[/blue] Max HP for this combat.",
+  "HEARTMOD-OVERCLOCK_SOLUTION.title": "Overclock Solution",
+  "HEARTMOD-OVERCLOCK_SOLUTION.description": "End your turn and take an [gold]extra turn[/gold].",
+  "HEARTMOD-TOUGHNESS_POTION.title": "Toughness Potion",
+  "HEARTMOD-TOUGHNESS_POTION.description": "Lose at most [blue]9[/blue] HP this turn."
+}

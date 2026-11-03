@@ -1,0 +1,34 @@
+{
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-attack": "我が手に取り戻してみせる。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-0r.char": "我が手に取り戻してみせる。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-0r.next": "続ける",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-1r.ancient": "お前か？　面白い、見物としよう。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-1r.next": "返答する",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-2r.char": "我が最強の一撃を見よ！",
+
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-0r.ancient": "隅の死体が見えるか？　あれはかつてのお前だ。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-0r.next": "返答する",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-1r.char": "だからどうした。何度でも戻ってくる。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-1r.next": "続ける",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-2r.ancient": "千回繰り返そうと、結果は変わらん。",
+
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-0r.ancient": "なんと執念深い。無駄なことを。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-0r.next": "返答する",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-1r.char": "暴君め……滅びろ！",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-1r.next": "続ける",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-2r.ancient": "お笑いだな。",
+
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-0r.ancient": "今のお前の姿……なんと愚かな……",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-0r.next": "続ける",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-1r.char": "ただ最初からやり直すだけだ。",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-1r.next": "続ける",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-2r.ancient": "ならば……行くがいい……",
+
+  "NEOW.talk.HEARTMOD-HEART_MOD.1-0r.ancient": "お前は……自ら望んで……輪廻に……足を踏み入れるのか……？",
+
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-0r.ancient": "過ぎ去ったすべてを……お前は……忘れてしまった……",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-0r.next": "返答する",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-1r.char": "私が玉座に昇り、もっとうまくやってみせる。",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-1r.next": "続ける",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-2r.ancient": "少なくとも……我らの目的は……同じだ……"
+}

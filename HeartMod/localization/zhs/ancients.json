@@ -1,0 +1,34 @@
+{
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-attack": "我会夺回属于我的荣耀。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-0r.char": "我会夺回属于我的荣耀。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-0r.next": "继续",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-1r.ancient": "就凭你？那我拭目以待。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-1r.next": "回答",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.0-2r.char": "试试我最强的攻击吧！",
+
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-0r.ancient": "看见角落里那具尸体了吗？那是曾经的你。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-0r.next": "回应",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-1r.char": "那又怎样？我还会回来的。",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-1r.next": "继续",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.1-2r.ancient": "再来千万次，结果也不会改变。",
+
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-0r.ancient": "真是锲而不舍啊，何必呢？",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-0r.next": "回答",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-1r.char": "暴君……死吧！",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-1r.next": "继续",
+  "THE_ARCHITECT.talk.HEARTMOD-HEART_MOD.2-2r.ancient": "可笑。",
+
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-0r.ancient": "你现在的样子……如此可笑……",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-0r.next": "继续",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-1r.char": "不过是从头再来罢了。",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-1r.next": "继续",
+  "NEOW.talk.HEARTMOD-HEART_MOD.0-2r.ancient": "那就……去吧……",
+
+  "NEOW.talk.HEARTMOD-HEART_MOD.1-0r.ancient": "你……自愿……踏入……轮回……？",
+
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-0r.ancient": "往日种种……你都……忘了……",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-0r.next": "回答",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-1r.char": "我会登上神座，比他做得更好。",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-1r.next": "继续",
+  "NEOW.talk.HEARTMOD-HEART_MOD.2-2r.ancient": "至少……目标……一致……"
+}

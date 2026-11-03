@@ -1,0 +1,6 @@
+{
+  "HEARTMOD-REFORGE_ENCHANTMENT.description": "The bearing card is treated as an Attack. When played, resolve all effects below in order, then fuse them into another hand card.",
+  "HEARTMOD-REFORGE_ENCHANTMENT.extraCardText": "{Effects}{Pass}",
+  "HEARTMOD-REFORGE_ENCHANTMENT.segPass": "On play, fuse ALL effects into a hand card.",
+  "HEARTMOD-REFORGE_ENCHANTMENT.title": "Reforged"
+}

@@ -1,0 +1,43 @@
+[gd_scene load_steps=3 format=3 uid="uid://bcorruptheart01"]
+
+[ext_resource type="Script" path="res://src/Core/Nodes/Combat/NCreatureVisuals.cs" id="1_script"]
+[ext_resource type="SpineSkeletonDataResource" path="res://animations/monsters/spireheart/heart/heart_skel_data.tres" id="2_skel_data"]
+
+[node name="CorruptHeart" type="Node2D"]
+script = ExtResource("1_script")
+
+[node name="FormVfx" type="Control" parent="."]
+unique_name_in_owner = true
+layout_mode = 3
+anchors_preset = 0
+offset_left = 0.0
+offset_top = 0.0
+offset_right = 0.0
+offset_bottom = 0.0
+mouse_filter = 2
+
+[node name="Visuals" type="SpineSprite" parent="."]
+unique_name_in_owner = true
+skeleton_data_res = ExtResource("2_skel_data")
+preview_skin = "default"
+preview_animation = "idle_loop"
+position = Vector2(0, 0)
+scale = Vector2(-1.0, 1.0)
+
+[node name="Bounds" type="Control" parent="."]
+unique_name_in_owner = true
+layout_mode = 3
+anchors_preset = 0
+offset_left = -80.0
+offset_top = -400.0
+offset_right = 80.0
+offset_bottom = -200.0
+mouse_filter = 2
+
+[node name="CenterPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, -200)
+
+[node name="IntentPos" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(30, -220)

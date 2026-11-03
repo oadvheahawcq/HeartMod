@@ -1,0 +1,8 @@
+{
+  "HEARTMOD-GROWTH_POTION.title": "生长药水",
+  "HEARTMOD-GROWTH_POTION.description": "本场战斗获得[blue]15[/blue]点最大生命值。",
+  "HEARTMOD-OVERCLOCK_SOLUTION.title": "超频溶液",
+  "HEARTMOD-OVERCLOCK_SOLUTION.description": "结束你的回合，获得一个[gold]额外回合[/gold]。",
+  "HEARTMOD-TOUGHNESS_POTION.title": "坚韧药水",
+  "HEARTMOD-TOUGHNESS_POTION.description": "本回合最多失去[blue]9[/blue]点生命。"
+}

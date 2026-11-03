@@ -1,0 +1,18 @@
+{
+  "HEARTMOD-HEART_MOD.title": "The Heart",
+  "HEARTMOD-HEART_MOD.titleObject": "The Heart",
+  "HEARTMOD-HEART_MOD.description": "The master of the Spire from a thousand years ago, sworn to reclaim all that was its.\nWields the power of Curses in battle.",
+  "HEARTMOD-HEART_MOD.possessiveAdjective": "its",
+  "HEARTMOD-HEART_MOD.pronounPossessive": "its",
+  "HEARTMOD-HEART_MOD.pronounSubject": "it",
+  "HEARTMOD-HEART_MOD.pronounObject": "it",
+  "HEARTMOD-HEART_MOD.goldMonologue": "[sine]Wealth... how reassuring.[/sine]",
+  "HEARTMOD-HEART_MOD.eventDeathPrevention": "Not yet... I still beat.",
+  "HEARTMOD-HEART_MOD.aromaPrinciple": "[sine][gray]Let me show you what true combat looks like.[/gray][/sine]",
+  "HEARTMOD-HEART_MOD.cardsModifierTitle": "Heart Cards",
+  "HEARTMOD-HEART_MOD.cardsModifierDescription": "Heart cards now appear in rewards and shops.",
+  "HEARTMOD-HEART_MOD.banter.alive.endTurnPing": "Continue.",
+  "HEARTMOD-HEART_MOD.banter.dead.endTurnPing": "...",
+  "HEARTMOD-HEART_MOD.archTImp.heart": "I will reclaim the glory that is mine.",
+  "HEARTMOD-HEART_MOD.archTImp.0-1ancient": "Let me lead you to victory!"
+}
