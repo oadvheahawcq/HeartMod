@@ -1,0 +1,25 @@
+# Godot import cache / editor state
+.godot/
+
+# .NET build output
+bin/
+obj/
+publish/
+packages/
+Properties/
+*.user
+
+# Exported mod package (attach to GitHub Releases instead of committing)
+build/
+
+# IDE
+.idea/
+.vs/
+.editorconfig
+
+# Machine-specific MSBuild settings (contain local Godot / StS2 install paths)
+Directory.Build.props
+local.props
+
+# Android export
+/android/
